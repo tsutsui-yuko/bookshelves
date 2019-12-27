@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  author: one
+  comment: MyString
+  birth: 2019-12-16 13:58:37
+
+two:
+  id: 
+  author: two
+  comment: MyString
+  birth: 2019-12-16 13:58:37
