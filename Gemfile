@@ -7,7 +7,7 @@ end
 
 gem 'cancancan'
 gem "rails_admin_import", "~> 2.2"
-gem 'rails_admin', '~> 1.4'
+gem 'rails_admin', '~> 2.0'
 gem 'devise'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.5'
